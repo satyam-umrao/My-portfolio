@@ -54,7 +54,7 @@ Visit the live site to explore the full experience:
 
 - 🌐 Portfolio: https://satyamumrao.in  
 - 💻 GitHub: https://github.com/satyam-umrao 
-- 🔗 LinkedIn: https://linkedin.com/satyamumrao 
+- 🔗 LinkedIn: https://www.linkedin.com/in/satyam-umrao
 - 📧 Email: umraosatyam75@gmail.com  
 
 
