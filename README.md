@@ -1,8 +1,6 @@
-# 🌐 Satyam Umrao — Portfolio Website
+# 🌐 Satyam Umrao — [Portfolio Website](https://www.satyamumrao.in)
 
-🚀 **Frontend Developer | React | JavaScript | TypeScript**  
-📍 India  
-🔗 **Live Portfolio:** https://satyamumrao.in  
+<img src="images/banner.png">
 
 ---
 
